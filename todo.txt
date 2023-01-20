@@ -1,0 +1,10 @@
+-download video and get video id
+        - get subtitles for video after downloading
+        - use fluent-ffmpeg to change resolution (for tiktok format) and merge subtitles with video 
+-allow them to name the file being downloaded
+-allow them to download to downloads folder
+
+-view video in the browser for clipping
+
+
+-add cut from video to create clips
